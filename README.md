@@ -20,19 +20,19 @@
 
   ### 🛠️ Tech Stack
 
-  🤖  AI/Agents       │  Claude Code • Droid • Gemini • OpenCode • AgentforceVibes • Codex • Cursor
-  🤖  Salesforce AI   │  Agentforce • Agent Script
-  🔧  DevOps          │  SF CLI v2 • CI/CD • Metadata API
-  🐍  Languages       │  Python • JavaScript • Java • Apex
+  🤖  AI/Agents       │  Claude Code • Droid • Gemini • OpenCode • AgentforceVibes • Codex • Cursor </br>
+  🤖  Salesforce AI   │  Agentforce • Agent Script </br>
+  🔧  DevOps          │  SF CLI v2 • CI/CD • Metadata API </br>
+  🐍  Languages       │  Python • JavaScript • Java • Apex </br>
 
 
   ### 🎯 Beyond Code
 
   When I'm not building developer tools, you'll find me:
 
-  - 🍷 Studying wine (WSET L1 + L2 certified)
+  - 🍷 Studying wine (WSET L1 & L2 certified - 📚 WSET L3)
   - 💃 Dancing Argentine Tango
-  - 📚 Writing technical documentation
+  - 🧘‍♂️ HYT 200
 
 
   <div align="center">
