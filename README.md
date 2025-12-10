@@ -32,13 +32,16 @@
   `Apex` `Flows` `Metadata` `DevOps` `Agentforce` `Data` `Integrations`
 
 
-  ### 🛠️ Tech Stack
+ ### 🛠️ Tech Stack
 
-  🤖  AI/Agents       │  Claude Code • Droid • Gemini • OpenCode • AgentforceVibes • Codex • Cursor </br>
-  🧬 AI ENGINEERING   │  RAG Architectures • Context Window Optimization • Prompt Engineering • Agentic Workflows </br>
-  🤖  Salesforce AI   │  Agentforce • Agent Script • Apex • LWC • Flows </br>
-  🔧  DevOps          │  SF CLI v2 • CI/CD • Metadata API • GitHub Actions • Open Source </br>
-  🐍  Languages       │  Python • JavaScript • Java • Apex </br>
+  | | |
+  |:--|:--|
+  | 🤖 **AI/Agents** | Claude Code • Droid • Gemini • OpenCode • AgentforceVibes • Codex • Cursor |
+  | 🧬 **AI Engineering** | RAG Architectures • Context Window Optimization • Prompt Engineering • Agentic Workflows |
+  | ☁️ **Salesforce AI** | Agentforce • Agent Script • Apex • LWC • Flows |
+  | 🔧 **DevOps** | SF CLI v2 • CI/CD • Metadata API • GitHub Actions • Open Source |
+  | 🐍 **Languages** | Python • JavaScript • Java • Apex |
+
 
   ### ⌨️ CLI Junkie
 
