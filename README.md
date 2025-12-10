@@ -28,7 +28,7 @@
   **Portable knowledge packs that give AI agents deep Salesforce expertise**
   `Apex` `Flows` `Metadata` `DevOps` `Agentforce` `Data` `Integrations`
 
-  > *"Building agents that make Salesforce development feel like magic ✨"*
+  > *"Building agents to build agents that make Salesforce development feel like magic ✨"*
 
  ### 🛠️ Tech Stack
 
