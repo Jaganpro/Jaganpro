@@ -12,19 +12,42 @@
 
   </div>
 
+   ## 🎯 What I Do
+
+  I **build AI agents** — not just developer tools.
+
+  With 15+ years deep in the Salesforce ecosystem and a CTA certification, I focus on creating intelligent systems that understand enterprise complexity. My work lives at the
+  intersection of **Agentforce**, **RAG architectures**, and **prompt engineering**.
+
+  > *"Building agents that make Salesforce development feel like magic ✨"*
+
+
   ### 🚀 What I'm Building
 
   I create **AI-powered developer tools** that supercharge Salesforce development. 
   My flagship project:
-  **sf-skills** — Portable knowledge packs that give AI coding agents deep Salesforce expertise. Skills covering Apex, Flows, Metadata, DevOps, Agentforce, and more.
+  [![sf-skills](https://github-readme-stats.vercel.app/api/pin/?username=Jaganpro&repo=sf-skills&theme=dark&hide_border=true)](https://github.com/Jaganpro/sf-skills)
+  
+  **Portable knowledge packs that give AI agents deep Salesforce expertise**
+  `Apex` `Flows` `Metadata` `DevOps` `Agentforce` `Data` `Integrations`
+
 
   ### 🛠️ Tech Stack
 
   🤖  AI/Agents       │  Claude Code • Droid • Gemini • OpenCode • AgentforceVibes • Codex • Cursor </br>
-  🤖  Salesforce AI   │  Agentforce • Agent Script </br>
-  🔧  DevOps          │  SF CLI v2 • CI/CD • Metadata API </br>
+  🧬 AI ENGINEERING   │  RAG Architectures • Context Window Optimization • Prompt Engineering • Agentic Workflows </br>
+  🤖  Salesforce AI   │  Agentforce • Agent Script • Apex • LWC • Flows </br>
+  🔧  DevOps          │  SF CLI v2 • CI/CD • Metadata API • GitHub Actions • Open Source </br>
   🐍  Languages       │  Python • JavaScript • Java • Apex </br>
 
+  ## ⌨️ CLI Junkie
+
+  ```bash
+  # My daily drivers
+  $ nvim .    # Neovim is home
+  $ tmux      # Sessions are life
+
+  I live in the terminal. Neovim + tmux is my IDE. If it doesn't have a CLI, I probably won't use it.
 
   ### 🎯 Beyond Code
 
@@ -36,7 +59,5 @@
 
 
   <div align="center">
-
-  *"Building tools that make Salesforce development feel like magic ✨"*
 
   </div>
