@@ -26,7 +26,7 @@
 
   I create **AI-powered developer tools** that supercharge Salesforce development. 
   My flagship project:
-  [![sf-skills](https://github-readme-stats.vercel.app/api/pin/?username=Jaganpro&repo=sf-skills&theme=dark&hide_border=true)](https://github.com/Jaganpro/sf-skills)
+  [![sf-skills](https://github.com/Jaganpro/sf-skills)]
   
   **Portable knowledge packs that give AI agents deep Salesforce expertise**
   `Apex` `Flows` `Metadata` `DevOps` `Agentforce` `Data` `Integrations`
@@ -42,7 +42,6 @@
 
   ## ⌨️ CLI Junkie
 
-  ```bash
   # My daily drivers
   $ nvim .    # Neovim is home
   $ tmux      # Sessions are life
