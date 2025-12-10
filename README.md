@@ -37,8 +37,9 @@
   | 🤖 **AI Agents** | Claude Code • Droid • Gemini • OpenCode • AgentforceVibes • Codex • Cursor |
   | 🧬 **AI Engineering** | RAG Architectures • Context Window Optimization • Prompt Engineering • Agentic Workflows |
   | ☁️ **Salesforce AI** | Agentforce • Agent Script • Apex • LWC • Flows |
-  | 🔧 **DevOps** | SF CLI v2 • CI/CD • Metadata API • GitHub Actions • Open Source |
+  | 🔧 **DevOps** | SF CLI v2 • CI/CD • Metadata API • GitHub Actions • Lazygit |
   | 🐍 **Languages** | Python • JavaScript • Java • Apex |
+  | 🧑‍💻 **IDE Environments** | NeoVim • Tmux |
 
   ### 🎯 Beyond Code
 
