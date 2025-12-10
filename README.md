@@ -8,6 +8,7 @@
 
   [![Twitter](https://img.shields.io/badge/Twitter-@jaganpro-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/jaganpro)
   [![GitHub](https://img.shields.io/badge/GitHub-Jaganpro-181717?style=flat&logo=github)](https://github.com/Jaganpro)
+  [![LinkedIn](https://img.shields.io/badge/-Jag_Valaiyapathy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagannathvalaiyapathy/)
   [![Location](https://img.shields.io/badge/📍-Richmond,_VA-green?style=flat)](#)
 
   </div>
