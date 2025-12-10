@@ -17,7 +17,7 @@
   I **build AI agents** 
 
   With 15+ years deep in the Salesforce ecosystem and a CTA certification, I focus on creating intelligent systems that understand enterprise complexity. My work lives at the
-  intersection of **Agentforce**, **RAG architectures**, and **prompt engineering**.
+  intersection of **Agentforce**, **RAG architectures**, **Prompt Engineering** and **Context Efficiency**
 
   ### 🚀 What I'm Building
 
