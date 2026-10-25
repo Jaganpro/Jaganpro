@@ -62,17 +62,6 @@ My macOS setup, built for working alongside AI agents. One command (`dot init`) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaganpro&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaganpro&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Jaganpro&theme=gruvbox&hide_border=true" alt="Contribution streak" />
-
-</div>
-
 ## 🍷 Beyond code
 
 - 🍷 Studying wine: WSET Levels 1 & 2 certified, working on Level 3 (my coding agent shows wine facts while it works)
